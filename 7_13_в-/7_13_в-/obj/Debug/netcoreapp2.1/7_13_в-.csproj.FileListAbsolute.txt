@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\7_13_в-\7_13_в-\bin\Debug\netcoreapp2.1\7_13_в-.deps.json
+C:\Users\User\source\repos\7_13_в-\7_13_в-\bin\Debug\netcoreapp2.1\7_13_в-.runtimeconfig.json
+C:\Users\User\source\repos\7_13_в-\7_13_в-\bin\Debug\netcoreapp2.1\7_13_в-.runtimeconfig.dev.json
+C:\Users\User\source\repos\7_13_в-\7_13_в-\bin\Debug\netcoreapp2.1\7_13_в-.dll
+C:\Users\User\source\repos\7_13_в-\7_13_в-\bin\Debug\netcoreapp2.1\7_13_в-.pdb
+C:\Users\User\source\repos\7_13_в-\7_13_в-\obj\Debug\netcoreapp2.1\7_13_в-.csprojAssemblyReference.cache
+C:\Users\User\source\repos\7_13_в-\7_13_в-\obj\Debug\netcoreapp2.1\7_13_в-.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\7_13_в-\7_13_в-\obj\Debug\netcoreapp2.1\7_13_в-.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\7_13_в-\7_13_в-\obj\Debug\netcoreapp2.1\7_13_в-.AssemblyInfo.cs
+C:\Users\User\source\repos\7_13_в-\7_13_в-\obj\Debug\netcoreapp2.1\7_13_в-.dll
+C:\Users\User\source\repos\7_13_в-\7_13_в-\obj\Debug\netcoreapp2.1\7_13_в-.pdb
