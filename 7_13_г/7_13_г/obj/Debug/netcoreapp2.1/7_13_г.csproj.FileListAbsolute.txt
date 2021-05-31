@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\7_13_г\7_13_г\bin\Debug\netcoreapp2.1\7_13_г.deps.json
+C:\Users\User\source\repos\7_13_г\7_13_г\bin\Debug\netcoreapp2.1\7_13_г.runtimeconfig.json
+C:\Users\User\source\repos\7_13_г\7_13_г\bin\Debug\netcoreapp2.1\7_13_г.runtimeconfig.dev.json
+C:\Users\User\source\repos\7_13_г\7_13_г\bin\Debug\netcoreapp2.1\7_13_г.dll
+C:\Users\User\source\repos\7_13_г\7_13_г\bin\Debug\netcoreapp2.1\7_13_г.pdb
+C:\Users\User\source\repos\7_13_г\7_13_г\obj\Debug\netcoreapp2.1\7_13_г.csprojAssemblyReference.cache
+C:\Users\User\source\repos\7_13_г\7_13_г\obj\Debug\netcoreapp2.1\7_13_г.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\7_13_г\7_13_г\obj\Debug\netcoreapp2.1\7_13_г.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\7_13_г\7_13_г\obj\Debug\netcoreapp2.1\7_13_г.AssemblyInfo.cs
+C:\Users\User\source\repos\7_13_г\7_13_г\obj\Debug\netcoreapp2.1\7_13_г.dll
+C:\Users\User\source\repos\7_13_г\7_13_г\obj\Debug\netcoreapp2.1\7_13_г.pdb
